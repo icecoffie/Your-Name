@@ -61,11 +61,3 @@ for x in range(0, lngth):
         print("..........\n..........\n..........\n..........\n\n")
     elif (c == "."):
         print("----..----\n\n")
-
-print("______________________________________")
-print("If you like it!!! Please follow me and hit ^ Up Vote.")
-print("______________________________________")
-print("Thanks for all the likes people! I have made this in Delphi for you")
-print("There is a repo in Bitbucket, so if you want you can compile it yourself")
-print("Or you can download exe just for fun :)")
-print("REPO: https://kordarei@bitbucket.org/kordarei/solo_magic.git")
